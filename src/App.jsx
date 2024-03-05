@@ -1,9 +1,10 @@
+import ColorPicker from './ColorPicker'
 
 function App() {
 
   return (
     <>
-      <h2></h2>
+     <ColorPicker />
     </>
   )
 }
